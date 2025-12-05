@@ -2,7 +2,7 @@
 ========================================================
 📜 LICENSE AGREEMENT – KODE WEB
 ========================================================
-Hak Cipta © [TAHUN] [NAMA PEMILIK / BRAND]
+Hak Cipta © [2025] [LIVIAA / BRAND]
 
 🔐 Lisensi Penggunaan:
 Kode web ini hanya diperbolehkan untuk:
